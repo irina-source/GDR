@@ -16,5 +16,4 @@ jobs:
           DATAVERSE_SERVER: https://demo.dataverse.org
           DATAVERSE_DATASET_DOI: doi:10.70122/FK2/5Y9C1J
           GITHUB_DIR: post_cache
-          DELETE: False
           replace: true
