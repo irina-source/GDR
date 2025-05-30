@@ -1,6 +1,6 @@
 ---
 title: 'Researcher-level altmetrics paper'
-author: "Heather Piwowar and Jason Priem"
+author: "Heather Piwowar"
 output:
   html_document:
     fig_caption: yes
@@ -83,7 +83,7 @@ This significantly narrowed our sample from the 2015 public data file, from 1.6M
 
 ## How much altmetrics activity to these researchers have?
 
-To start with, let's look at the number of times each researcher's work has been mentioned on a social platform (Twitter, Facebook, etc). We'll use Altmetric.com to do this, since they do a great job of getting all this data. 
+To start with, let's look at the number of times each researcher's work has been mentioned on a social platform (Twitter, Facebook, etc).
 
 One downside of this approach is that we're only able to track mentions (Altmetic calls them "posts") of articles with DOIs (well, technically ArXiv IDs as well, but this is a very small number). That still leaves us with plenty of publications to work with though, since most publications in ORCID profiles do have DOIs *(put numbers here later).*
 
